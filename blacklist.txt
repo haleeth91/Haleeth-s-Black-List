@@ -47,6 +47,7 @@
 
 
 # K
+|| keewoach.net^
 || kmsnhhkr.com^
 
 
@@ -60,7 +61,9 @@
 
 
 # O
+|| optyruntchan.com^
 || osmatecosh.com^
+|| ossmightyenar.net^
 
 
 # P
@@ -77,12 +80,16 @@
 # T
 || twigdose.com^
 || twinrdsyte.com^
+|| tzegilo.com^
 
 
 # X
 || x-promo.softgames.com^
 || xckaxburnowhj.com^
 
+
+# Y
+|| yourbestbro1s.site^
 
 # Y
 || youradexchange.com^
