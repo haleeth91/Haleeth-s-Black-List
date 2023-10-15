@@ -1,0 +1,88 @@
+!
+! Title: AdGuard Filter by Haleeth Umar
+! Homepage: https://www.haleeth.com
+! Last modified: 2023-10-15
+!
+
+# A
+|| achcdn.com^
+|| adsco.re^
+|| advantagedoctrinepleased.com^
+
+
+# B
+|| banquetunarmedgrater.com^
+|| bcgame.top^
+|| beauty-lands.com^
+|| befirstcdn.com^
+|| big.one^
+
+
+# C
+|| chaturbate.com^
+|| cryptoinfotop.com^
+
+
+# D
+|| dbmzgcmqqi.com^
+|| displayvertising.com^
+|| cloudfront.net^
+
+
+# F
+|| friendshipmale.com^
+|| fscache.com^
+
+
+# G
+|| graph.facebook.com^
+
+
+# I
+|| intelligenceadx.com^
+
+
+# J
+|| js-agent.newrelic.com^
+
+
+# K
+|| kmsnhhkr.com^
+
+
+# L
+|| latoken.com^
+|| linkonclick.com^
+
+
+# M
+|| metanews.com^
+
+
+# O
+|| osmatecosh.com^
+
+
+# P
+|| pannagechapin.uno^
+|| planetsuzy.org/clientscript/site_ads.js
+|| priseconcede.com^
+|| pvtypsgueyqey.com^
+
+
+# S
+|| stats.hprofits.com^
+
+
+# T
+|| twigdose.com^
+|| twinrdsyte.com^
+
+
+# X
+|| x-promo.softgames.com^
+|| xckaxburnowhj.com^
+
+
+# Y
+|| youradexchange.com^
