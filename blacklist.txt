@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard Filter by Haleeth Umar
 ! Homepage: https://www.haleeth.com
-! Last modified: 2023-10-15
+! Last modified: 2023-10-26
 !
 
 # A
@@ -30,7 +30,8 @@
 
 
 # E
-eajpryc.com
+|| eajpryc.com
+|| ewikajs.com
 
 
 # F
@@ -93,7 +94,5 @@ eajpryc.com
 
 
 # Y
-|| yourbestbro1s.site^
-
-# Y
 || youradexchange.com^
+|| yourbestbro1s.site^
