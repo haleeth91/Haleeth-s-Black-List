@@ -21,17 +21,18 @@
 # C
 || chaturbate.com^
 || cryptoinfotop.com^
+|| cloudfront.net^
 
 
 # D
 || dbmzgcmqqi.com^
+|| didhknsizcv.com^
 || displayvertising.com^
-|| cloudfront.net^
 
 
 # E
-|| eajpryc.com
-|| ewikajs.com
+|| eajpryc.com^
+|| ewikajs.com^
 
 
 # F
