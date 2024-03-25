@@ -1,0 +1,102 @@
+!
+! Title: pfBlock by Haleeth Umar
+! Homepage: https://www.haleeth.com
+! Last modified: 2023-10-26
+!
+
+# A
+0.0.0.0 achcdn.com^
+0.0.0.0 adsco.re^
+0.0.0.0 advantagedoctrinepleased.com^
+0.0.0.0 avygpim.com^
+
+
+# B
+0.0.0.0 banquetunarmedgrater.com^
+0.0.0.0 bcgame.top^
+0.0.0.0 beauty-lands.com^
+0.0.0.0 befirstcdn.com^
+0.0.0.0 big.one^
+0.0.0.0 buysellads.net^
+
+
+# C
+0.0.0.0 chaturbate.com^
+0.0.0.0 cryptoinfotop.com^
+0.0.0.0 cloudfront.net^
+
+
+# D
+0.0.0.0 dbmzgcmqqi.com^
+0.0.0.0 didhknsizcv.com^
+0.0.0.0 displayvertising.com^
+
+
+# E
+0.0.0.0 eajpryc.com^
+0.0.0.0 ewikajs.com^
+
+
+# F
+0.0.0.0 ffsewzk.com^
+0.0.0.0 friendshipmale.com^
+0.0.0.0 fscache.com^
+
+
+# G
+0.0.0.0 graph.facebook.com^
+
+
+# I
+0.0.0.0 intelligenceadx.com^
+
+
+# J
+0.0.0.0 js-agent.newrelic.com^
+
+
+# K
+0.0.0.0 keewoach.net^
+0.0.0.0 kmsnhhkr.com^
+
+
+# L
+0.0.0.0 latoken.com^
+0.0.0.0 linkonclick.com^
+
+
+# M
+0.0.0.0 metanews.com^
+
+
+# O
+0.0.0.0 optyruntchan.com^
+0.0.0.0 osmatecosh.com^
+0.0.0.0 ossmightyenar.net^
+
+
+# P
+0.0.0.0 pannagechapin.uno^
+0.0.0.0 planetsuzy.org/clientscript/site_ads.js
+0.0.0.0 priseconcede.com^
+0.0.0.0 pvtypsgueyqey.com^
+
+
+# S
+0.0.0.0 stats.hprofits.com^
+
+
+# T
+0.0.0.0 twigdose.com^
+0.0.0.0 twinrdsyte.com^
+0.0.0.0 tzegilo.com^
+
+
+# X
+0.0.0.0 x-promo.softgames.com^
+0.0.0.0 xckaxburnowhj.com^
+
+
+# Y
+0.0.0.0 youradexchange.com^
+0.0.0.0 yourbestbro1s.site^
